@@ -1,0 +1,1 @@
+Control a sports scoreboard via Android tablet using bluetooth
